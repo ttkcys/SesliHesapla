@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sesli Hesapla</string>
+    <string name="speech_promot">Bir şey söyle</string>
+    <string name="speech_not_supported">Üzgünüm! Cihazın konuşma özelliğini desteklemiyor</string>
+    <string name="top_on_mic">Konuşmak için mikrofona dokunun</string>
+    <string name="Expression">İfade</string>
+
+</resources>
